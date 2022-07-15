@@ -4,3 +4,4 @@
 * https://github.com/ufoscout/properlty
 
 `./gradlew test -Denv=local`
+
